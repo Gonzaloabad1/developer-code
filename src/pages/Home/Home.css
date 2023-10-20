@@ -2,3 +2,15 @@
   display:grid;
   place-items: center;
 }
+.circular-image {
+  width: 250px; /* Ajusta el tamaño según tus preferencias */
+  height: 250px; /* Ajusta el tamaño según tus preferencias */
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.circular-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}

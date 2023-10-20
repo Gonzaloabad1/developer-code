@@ -1,0 +1,30 @@
+.button-small {
+    padding: 6px 20px;
+    background-color: rgb(212, 50, 21);
+    color: white;
+    font-size: 16px;
+  }
+  .button-small1 {
+    padding: 6px 20px;
+    background-color: rgb(255, 238, 6);
+    color: rgb(14, 13, 13);
+    font-size: 16px;
+  }
+  
+  .button-success {
+    padding: 10px 20px;
+    background-color: green;
+    color: white;
+    font-size: 16px;
+  }
+  
+  .button-warning {
+    padding: 10px 20px;
+    background-color: rgb(228, 88, 24);
+    color: white;
+    font-size: 16px;
+  }
+  
+  .button-large {
+    font-size: 24px;
+  }

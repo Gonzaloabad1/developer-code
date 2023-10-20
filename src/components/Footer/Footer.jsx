@@ -3,7 +3,7 @@ import "./Footer.css";
 const Footer = () => {
   return (
     <footer>
-      <p>Movies Router - 2023 - Fundación Once</p>
+      <p>©Developer Code 2023 - Fundación Once</p>
     </footer>
   );
 };
